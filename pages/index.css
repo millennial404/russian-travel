@@ -9,9 +9,7 @@
 @import "../blocks/content/content.css";
 @import "../blocks/lead/__title/lead__title.css";
 @import "../blocks/lead/__subtitle/lead__subtitle.css";
-@import "../blocks/lead/__images/lead__images.css";
 @import "../blocks/lead/__image/lead__image.css";
-@import "../blocks/lead/__image-route/lead__image-route.css";
 @import "../blocks/lead/__caption/lead__caption.css";
 @import "../blocks/intro/intro.css";
 @import "../blocks/intro/__list/intro__list.css";
