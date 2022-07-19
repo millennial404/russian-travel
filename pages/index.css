@@ -16,3 +16,5 @@
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__title/intro__title.css";
 @import "../blocks/intro/__conteiner/conteiner.css";
+@import "../blocks/photo-grid/photo-grid.css";
+@import "../blocks/photo-grid/__list/photo-grid__list.css";
