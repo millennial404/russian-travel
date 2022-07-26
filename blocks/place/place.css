@@ -1,14 +1,18 @@
 .place {
   display: grid;
-  grid-template-columns: 1fr minmax(300px, 484px);
+  grid-template-columns: 1fr minmax(200px, 484px);
   grid-template-rows: auto;
   gap: 48px 40px;
   justify-content: center;
   padding: 0;
 }
-
+@media screen and (max-width: 1024px) {
+  .place {
+    gap: 48px 32px;
+  }
+}
 @media screen and (max-width: 768px) {
   .place {
-    grid-template-columns: repeat(auto-fit, 484px);
+    gap: 48px 28px;
   }
 }

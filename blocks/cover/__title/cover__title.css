@@ -9,3 +9,13 @@
   color: #fff;
   text-align: center;
 }
+@media screen and (max-width: 1024px) {
+  .cover__title {
+    margin: 195px auto 32px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .cover__title {
+    margin: 115px auto 32px;
+  }
+}

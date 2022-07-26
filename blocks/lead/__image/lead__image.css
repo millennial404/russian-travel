@@ -8,3 +8,8 @@
   margin: 0 auto;
   padding: 0 48px;
 }
+@media screen and (max-width: 768px) {
+  .lead__image {
+    padding: 0px;
+  }
+}
