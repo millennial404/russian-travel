@@ -13,6 +13,7 @@
 @import "../blocks/lead/__caption/lead__caption.css";
 @import "../blocks/intro/intro.css";
 @import "../blocks/intro/__list/intro__list.css";
+@import "../blocks/intro/__list/_digit-font-weight/intro__list_digit-font-weight.css";
 @import "../blocks/intro/__text/intro__text.css";
 @import "../blocks/intro/__title/intro__title.css";
 @import "../blocks/intro/__conteiner/conteiner.css";

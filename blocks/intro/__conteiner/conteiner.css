@@ -3,8 +3,13 @@
   margin: 0 auto;
   padding: 92px 48px 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .conteiner {
     padding: 88px 24px 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .conteiner {
+    padding: 64px 16px 0;
   }
 }

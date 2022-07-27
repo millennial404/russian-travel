@@ -11,3 +11,9 @@
     gap: 72px;
   }
 }
+@media screen and (max-width: 320px) {
+  .places {
+    padding: 0px;
+    gap: 50px;
+  }
+}
