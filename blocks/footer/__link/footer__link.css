@@ -13,6 +13,11 @@
 .footer__link:hover {
   color: #fff;
 }
+@media screen and (max-width: 522px) {
+  .footer__link  {
+    font-size: 24px;
+  }
+}
 @media screen and (max-width: 320px) {
   .footer__link  {
     font-size: 24px;
