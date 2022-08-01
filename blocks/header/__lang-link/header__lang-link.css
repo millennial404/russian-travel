@@ -4,17 +4,14 @@
   line-height: 1.2;
   text-decoration: none;
 }
-
 .header__lang-link:visited {
   color: #fff;
 }
-
 .header__lang-link:hover {
   color: #fff;
 }
-
 @media screen and (max-width: 425px) {
-  .header__lang-link{
+  .header__lang-link {
     font-size: 18px;
   }
 }
