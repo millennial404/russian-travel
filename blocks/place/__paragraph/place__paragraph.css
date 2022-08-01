@@ -10,7 +10,11 @@
 .place__paragraph:last-child {
   margin: 0;
 }
-
+@media screen and (max-width: 425px) {
+  .place__paragraph {
+    padding: 0 16px;
+  }
+}
 @media screen and (max-width: 320px) {
   .place__paragraph {
     padding: 0 16px;
