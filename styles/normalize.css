@@ -149,6 +149,10 @@ img {
   border-style: none;
 }
 
+figure {
+  margin: 0;
+  padding: 0;
+}
 /* Forms
    ========================================================================== */
 
@@ -349,3 +353,4 @@ template {
 [hidden] {
   display: none;
 }
+

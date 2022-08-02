@@ -4,5 +4,11 @@
   line-height: 1.63;
   font-weight: normal;
   padding: 0;
-  margin: 0 0 33px;
+  margin: 0 0 33px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+    max-width: 720px;
+  }
 }
