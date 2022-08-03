@@ -4,15 +4,9 @@
   padding: 0;
   display: flex;
   gap: 18px;
+  line-height: 0;
 }
 @media screen and (max-width: 522px) {
-  .footer__links {
-    flex-direction: column;
-    margin-bottom: 48px;
-    gap: 32px;
-  }
-}
-@media screen and (max-width: 320px) {
   .footer__links {
     flex-direction: column;
     margin-bottom: 48px;

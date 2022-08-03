@@ -13,6 +13,16 @@
 @media screen and (max-width: 725px) {
   .footer {
     flex-direction: column;
-    gap: 15px;
+    gap:15px
+  }
+}
+@media screen and (max-width: 522px) {
+  .footer {
+    gap: 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .footer {
+    padding: 0 16px 24px;
   }
 }
